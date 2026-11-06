@@ -1,1 +1,4 @@
-
+<resources>
+    <string name="app_name">AirCursor</string>
+    <string name="accessibility_description">AirCursor menggunakan gerakan tangan untuk mengirim klik, drag, dan scroll ketika pengguna mengaktifkan layanan ini.</string>
+</resources>
